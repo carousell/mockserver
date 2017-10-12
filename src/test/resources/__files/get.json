@@ -1,0 +1,19 @@
+{
+  "savedSearch": [{
+    "isSaved": false,
+    "lastSearchCount": 0,
+    "uuid": "11",
+    "userId": "123",
+    "countryCollectionId": "3",
+    "fsid": "bbb",
+    "id": "0"
+  }, {
+    "isSaved": false,
+    "lastSearchCount": 0,
+    "uuid": "22",
+    "userId": "123",
+    "countryCollectionId": "4",
+    "fsid": "aaaa",
+    "id": "0"
+  }]
+}

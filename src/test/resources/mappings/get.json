@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/ss/3.1/searches/"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "get.json"
+  }
+}
