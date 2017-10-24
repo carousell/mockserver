@@ -1,0 +1,66 @@
+{
+    "token": "259093f6dd42cf88898c006967b346cea83c9422",
+    "user": {
+        "username": "apiuser",
+        "id": 2887,
+        "profile": {
+            "website": "carousell.com/apiuser",
+            "city": "Singapore",
+            "image": "photos/profiles/default.png",
+            "image_url": "https://d2xngy2dw7hums.cloudfront.net/media/photos/profiles/default.png",
+            "id": 2807,
+            "bio": "",
+            "currency_symbol": "$",
+            "mobile": "",
+            "gender": "",
+            "birthday": "",
+            "marketplace": {
+                "id": 1880252,
+                "name": "Singapore",
+                "location": {
+                    "latitude": 1.28967,
+                    "longitude": 103.85007
+                },
+                "region": null,
+                "country": {
+                    "id": 1880251,
+                    "code": "SG",
+                    "name": "Singapore"
+                }
+            },
+            "is_recommended": false,
+            "instagram_id": "",
+            "instagram_token": "",
+            "is_facebook_verified": false,
+            "is_email_verified": true,
+            "verification_type": "VE",
+            "facebook_page_id": "",
+            "facebook_page_name": "",
+            "affiliate_name": null,
+            "is_bump_eligible": false,
+            "is_inactive": false,
+            "auto_reserve": true
+        },
+        "followers_count": 0,
+        "following_count": 0,
+        "follow_status": false,
+        "products_count": 3,
+        "sold_count": 0,
+        "last_name": "1508748525641",
+        "first_name": "",
+        "email": "qa-account+4@thecarousell.com",
+        "blocked": false,
+        "positive_reviews_count": 0,
+        "negative_reviews_count": 0,
+        "neutral_reviews_count": 0,
+        "is_admin": false,
+        "date_joined": "2017-06-22T08:17:28Z",
+        "is_suspended": false,
+        "marketplaces": [],
+        "has_campus_marketplace": true,
+        "marketplace_image_url": "https://d2xngy2dw7hums.cloudfront.net/media/photos/markets/default.png",
+        "default_browsing_place": [],
+        "is_restricted": false,
+        "restrictions": []
+    }
+}

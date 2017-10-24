@@ -1,0 +1,124 @@
+[
+    {
+        "comments_count": 0,
+        "description": "Rui\n\nListed By Agent: No\nEstate: Bukit Merah\nHDB Type: 3I (Improved)\nBedrooms: 6 Bedrooms\nBathrooms: 6 Bathrooms\nFloor Size: 456sqft",
+        "id": 52936,
+        "likes_count": 0,
+        "like_status": false,
+        "location": null,
+        "location_name": "",
+        "location_address": "",
+        "marketplace": {
+            "id": 1880252,
+            "country": {
+                "city_count": 1,
+                "code": "SG",
+                "name": "Singapore",
+                "id": 1880251
+            },
+            "name": "Singapore",
+            "location": {
+                "latitude": 1.28967,
+                "longitude": 103.85007
+            }
+        },
+        "primary_photo": "photos/products/2017/10/13/172007_52936_thumbnail.jpg",
+        "price": "456.00",
+        "price_formatted": "456",
+        "seller": {
+            "id": 5260,
+            "username": "min8106",
+            "profile": {
+                "image_url": "https://d2xngy2dw7hums.cloudfront.net/media/photos/profiles/2017/08/30/min8106_1504069084.jpg",
+                "image": "photos/profiles/2017/08/30/min8106_1504069084.jpg",
+                "verification_type": "VE",
+                "is_facebook_verified": false,
+                "is_email_verified": true,
+                "is_gplus_verified": false,
+                "affiliate_name": null
+            },
+            "first_name": "",
+            "last_name": ""
+        },
+        "status": "L",
+        "time_created": "2017-10-13T09:20:06Z",
+        "time_indexed": "2017-10-13 09:20:15.086683+00:00",
+        "title": "4rf",
+        "user_state": 8,
+        "currency_symbol": "$",
+        "primary_photo_url": "https://d2xngy2dw7hums.cloudfront.net/media/photos/products/2017/10/13/4rf_1507886406_183f664c.jpg",
+        "primary_photo_full": "photos/products/2017/10/13/4rf_1507886406_183f664c.jpg",
+        "primary_photo_full_url": "https://d2xngy2dw7hums.cloudfront.net/media/photos/products/2017/10/13/4rf_1507886406_183f664c.jpg",
+        "utc_last_liked": "2017-10-13 09:20:15.086683+00:00",
+        "source": "C",
+        "flags": {
+            "is_price_drop_bump_eligible": false
+        },
+        "price_suggestion": {
+            "display_price": "364",
+            "eligible_price": "410"
+        },
+        "smart_attributes": null
+    },
+    {
+        "comments_count": 0,
+        "description": "Hiya! Welcome to Carousell 😊\n\nHere are some quick tips to help you get started on Carousell:\n\n👉 Buy:\nIf you're interested to buy something, simply tap the item, and click the 'Chat to Buy - $' button. Then start a conversation with the seller to ask for more information. When you're ready, make an offer for a price you are comfortable with and proceed with the transaction.\n\n👉 Sell:\nTo sell something, simply press the 'SELL' button. Then add a photo and fill in the relevant information. When a user is wants to buy your item, remember to have him/her ‘Make an offer’ so that he/she can ‘Leave a feedback’ after.\np.s. Nicely photographed listings tend to gain more traffic so make sure your items are bright, clear and appealing.\n\n👉 Share:\nWhile listing your items, you can choose to share your listings on your social media accounts to reach a larger crowd and get them sold faster.\n\n👉 Payment and delivery:\nPayment and delivery is made completely between the buyer and seller. Here are a few suggested ways where deals could be completed:\n1. Bank transfer and mailing\n2. Cash on delivery and meet-ups\n3. Paypal and mailing/meetups\n\n👉 Promote:\nGet support from your friends by sharing your profile for free! Simply go to ‘Me’ and click on ‘Promote’ found at the top left corner of your page. This way, you can grow your following and reach more buyers.\n\nFor more information, please head over to the tabs: Me > Settings 😊\n\nHappy Carouselling! 🎊\n\np.s. feel free to delete this listing after you've read through it and ready to go!",
+        "id": 25520,
+        "likes_count": 0,
+        "like_status": false,
+        "location": null,
+        "location_name": "Singapore",
+        "location_address": "",
+        "marketplace": {
+            "id": 1880252,
+            "country": {
+                "city_count": 1,
+                "code": "SG",
+                "name": "Singapore",
+                "id": 1880251
+            },
+            "name": "Singapore",
+            "location": {
+                "latitude": 1.28967,
+                "longitude": 103.85007
+            }
+        },
+        "primary_photo": "photos/products/2017/08/30/125806_25520_thumbnailK",
+        "price": "0.00",
+        "price_formatted": "0",
+        "seller": {
+            "id": 5260,
+            "username": "min8106",
+            "profile": {
+                "image_url": "https://d2xngy2dw7hums.cloudfront.net/media/photos/profiles/2017/08/30/min8106_1504069084.jpg",
+                "image": "photos/profiles/2017/08/30/min8106_1504069084.jpg",
+                "verification_type": "VE",
+                "is_facebook_verified": false,
+                "is_email_verified": true,
+                "is_gplus_verified": false,
+                "affiliate_name": null
+            },
+            "first_name": "",
+            "last_name": ""
+        },
+        "status": "P",
+        "time_created": "2017-08-30T04:58:05Z",
+        "time_indexed": "2017-08-30 04:58:05.289925+00:00",
+        "title": "Welcome to Carousell!",
+        "user_state": 8,
+        "currency_symbol": "$",
+        "primary_photo_url": "https://d2xngy2dw7hums.cloudfront.net/media/photos/products/2017/08/30/welcome_to_carousell_1504069085_afa7f614K",
+        "primary_photo_full": "photos/products/2017/08/30/welcome_to_carousell_1504069085_afa7f614K",
+        "primary_photo_full_url": "https://d2xngy2dw7hums.cloudfront.net/media/photos/products/2017/08/30/welcome_to_carousell_1504069085_afa7f614K",
+        "utc_last_liked": "2017-08-30 04:58:05.290417+00:00",
+        "source": "C",
+        "flags": {
+            "is_price_drop_bump_eligible": false
+        },
+        "price_suggestion": {
+            "display_price": "0",
+            "eligible_price": "0"
+        },
+        "smart_attributes": null
+    }
+]

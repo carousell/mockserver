@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/api/2.1/collections/?country_code=SG"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "collections.json"
+  }
+}

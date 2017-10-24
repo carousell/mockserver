@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/api/2.7/username/apiuser/products/?start=0&count=20&sort=popular"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "products.json"
+  }
+}

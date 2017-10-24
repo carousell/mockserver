@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/api/2.7/me/offers/?type=all&count=20"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "offers.json"
+  }
+}
