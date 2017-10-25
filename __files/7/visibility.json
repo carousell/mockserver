@@ -1,0 +1,20 @@
+[
+  {
+    "product_id": 52936,
+    "available": [
+      {
+        "catalogue_id": 329,
+        "flavour": "PAID-3D-BUMP",
+        "type": "bump",
+        "payment_methods": {
+          "app_store": {
+            "external_id": "com.thecarousell.carousell.product.bump.3day.default.low"
+          }
+        }
+      }
+    ],
+    "available_in_future": [],
+    "active": [],
+    "lowest_price": "456.00"
+  }
+]

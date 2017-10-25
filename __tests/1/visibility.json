@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "POST",
+    "urlPathPattern": "/api/[0-9](\\.)[0-9]/services/visibility/"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "1/visibility.json"
+  }
+}
